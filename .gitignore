@@ -12,3 +12,6 @@ wheels/
 
 #macOS
 .DS_Store
+
+#Database
+*.db
